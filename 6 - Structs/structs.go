@@ -4,12 +4,12 @@ import "fmt"
 
 type Address struct {
 	neighborhood string
-	number       int32
+	number       uint32
 }
 
 type User struct {
 	name    string
-	age     int8
+	age     uint8
 	address Address
 }
 
