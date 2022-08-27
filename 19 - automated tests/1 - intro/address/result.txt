@@ -1,0 +1,7 @@
+mode: set
+introduction-to-tests/address/address.go:5.41,9.39 4 1
+introduction-to-tests/address/address.go:15.2,15.13 1 1
+introduction-to-tests/address/address.go:18.2,18.23 1 1
+introduction-to-tests/address/address.go:9.39,10.46 1 1
+introduction-to-tests/address/address.go:10.46,12.9 2 1
+introduction-to-tests/address/address.go:15.13,17.3 1 1
